@@ -27,7 +27,7 @@
 ```ts
 const het1410 = {
   title: "Student",
-  stack: ["Python", "Java", "C", "HTML", "CSS", "JavaScript"],
+  stack: ["Python", "Java", "C", "HTML", "CSS"],
   launchedProjects: ["Personal Knowledge-Graph Recall Agent"],
   status: "Exploring AI & Web Development",
   openTo: "Collaborations & Learning Opportunities",
